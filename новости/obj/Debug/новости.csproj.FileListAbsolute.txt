@@ -1,0 +1,10 @@
+D:\uni\Основы инженерии\новости\новости\bin\Debug\новости.exe.config
+D:\uni\Основы инженерии\новости\новости\bin\Debug\новости.exe
+D:\uni\Основы инженерии\новости\новости\bin\Debug\новости.pdb
+D:\uni\Основы инженерии\новости\новости\obj\Debug\новости.csprojAssemblyReference.cache
+D:\uni\Основы инженерии\новости\новости\obj\Debug\новости.Form1.resources
+D:\uni\Основы инженерии\новости\новости\obj\Debug\новости.Properties.Resources.resources
+D:\uni\Основы инженерии\новости\новости\obj\Debug\новости.csproj.GenerateResource.cache
+D:\uni\Основы инженерии\новости\новости\obj\Debug\новости.csproj.CoreCompileInputs.cache
+D:\uni\Основы инженерии\новости\новости\obj\Debug\новости.exe
+D:\uni\Основы инженерии\новости\новости\obj\Debug\новости.pdb
